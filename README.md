@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=FFD1DC&height=300&section=header&text=Soohee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FFD1DC&height=150&section=header&text=Soohee&fontSize=90)
 
 
 
