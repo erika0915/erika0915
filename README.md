@@ -5,7 +5,7 @@
 #### 🔗 Experience 
 - Ewha Computer Club 48기 Backend <sub>(2024.03 ~ 2024.08)</sub>
 - University MakeUs Challenge 7기 Server-Spring Boot <sub>(2024.09 ~ 2025.02)</sub> 
-- Google Developer Student Club Ewha 6th Member
+- Google Developer Student Club Ewha 6th Member <sub>(2024.09 ~ now)</sub> 
 - IT’s TIME 7기 Backend <sub>(2025.03 ~ now)</sub>
 #### 💻 Project
 - [Ewha Investigation](https://github.com/erika0915/ewha-investigation) : 대학생들을 위한 금융 상품 안내 서비스 <sub>(2024.07 ~ 2024.08)</sub>
