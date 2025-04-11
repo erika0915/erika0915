@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=FFD1DC&height=150&section=header&text=Soohee%20&fontSize=50)
 
-#### 👩‍💻 Career
-- Studying in Computer Science & Engineering, Ewha Womans University
+### 👩🏻‍💻 My career
+- 이화여자대학교 컴퓨터공학과 
 #### 🔗 Experience 
-- Ewha Computer Club 48기 Backend <sub>(2024.03 ~ 2024.08)</sub>
-- University MakeUs Challenge 7기 Server-Spring Boot <sub>(2024.09 ~ 2025.02)</sub> 
-- Google Developer Student Club Ewha 6th Member <sub>(2024.09 ~ now)</sub> 
-- IT’s TIME 7기 Backend <sub>(2025.03 ~ now)</sub>
-
-#### 🛠 I'm interested in
-- Backend Engineering 
+- 이화여대 중앙컴퓨터동아리 ECC 48기 백엔드 <sub>(2024.03 ~ 2024.08)</sub>
+- [UMC 7기 백엔드](https://github.com/UMC-Ewha-7th) <sub>(2024.09 ~ 2025.02)</sub> 
+- [GDSC Ewha](https://github.com/GDG-on-Campus-Ewha-2024) Backend member <sub>(2024.09 ~ now)</sub> 
+- 잇타 IT’s TIME 7기 Backend <sub>(2025.03 ~ now)</sub>
 
 
 </br> 
