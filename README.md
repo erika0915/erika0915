@@ -11,4 +11,14 @@
 
 </br> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erika0915&show_icons=true&theme=github-readme-stats)
+### 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=erika0915&show_icons=true&theme=default&hide_border=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika0915&layout=compact&theme=default&hide_border=true&langs_count=6" width="400"/>
+    </td>
+  </tr>
+</table>
